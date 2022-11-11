@@ -1,4 +1,4 @@
-# Welcome to the RPG project
+# Welcome to the RPG project developed by: Diana, Pol and Yehosua
 
 This game consist in a simulation of a battle bewteen two teams, during five rounds. The user can create teams between this ways:
 
